@@ -1,0 +1,7 @@
+CC=/usr/bin/gcc
+
+all: simple
+simple: simple
+	$(CC) -o simple simple.c
+clean:
+	rm -f simple

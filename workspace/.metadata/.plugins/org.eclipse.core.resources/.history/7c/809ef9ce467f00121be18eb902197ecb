@@ -1,0 +1,11 @@
+all: HelloWorld.exe
+
+clean:
+    rm HelloWorld.o HelloWorld.exe
+
+hello.exe: main.o
+    gcc -g -o hello main.o
+
+main.o:
+    gcc -c -g main.cpp
+ 

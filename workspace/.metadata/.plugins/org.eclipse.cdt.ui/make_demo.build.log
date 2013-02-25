@@ -1,0 +1,10 @@
+14:59:27 **** Incremental Build of configuration Default for project make_demo ****
+make all 
+cc   foo.o   -o foo
+foo.o: In function `main':
+foo.c:(.text+0x7): undefined reference to `say_hello'
+collect2: error: ld returned 1 exit status
+make: *** [foo] Error 1
+
+14:59:27 Build Finished (took 158ms)
+
