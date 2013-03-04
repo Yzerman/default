@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EchoServer/EchoServer&apos; to &apos;EchoServer.c&apos;" description="Rename resource &apos;EchoServer&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="EchoServer" name="EchoServer.c" stamp="1362415399318" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;EchoServerPthreads/EchoServerPhtreads&apos; to &apos;EchoServerPhtreads.c&apos;" description="Rename resource &apos;EchoServerPhtreads&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="EchoServerPhtreads" name="EchoServerPhtreads.c" stamp="1362415709477" updateReferences="true"/>
+</session>

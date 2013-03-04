@@ -1,6 +1,12 @@
-15:21:29 **** Incremental Build of configuration Release for project simple ****
+18:09:11 **** Incremental Build of configuration Default for project EchoServerPthreads ****
 make all 
 make: Nothing to be done for `all'.
-15:21:54 **** Incremental Build of configuration Release for project simple ****
+18:09:14 **** Incremental Build of configuration Default for project EchoServerPthreads ****
+make all 
+make: Nothing to be done for `all'.
+18:10:39 **** Incremental Build of configuration Default for project EchoServerPthreads ****
+make all 
+make: Nothing to be done for `all'.
+18:10:47 **** Incremental Build of configuration Default for project EchoClient ****
 make all 
 make: Nothing to be done for `all'.

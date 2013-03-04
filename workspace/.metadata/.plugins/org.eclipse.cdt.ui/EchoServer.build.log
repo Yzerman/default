@@ -1,0 +1,6 @@
+18:08:14 **** Incremental Build of configuration Default for project EchoServer ****
+make all 
+make: Nothing to be done for `all'.
+
+18:08:14 Build Finished (took 98ms)
+

@@ -1,0 +1,6 @@
+18:10:47 **** Incremental Build of configuration Default for project EchoClient ****
+make all 
+make: Nothing to be done for `all'.
+
+18:10:47 Build Finished (took 78ms)
+

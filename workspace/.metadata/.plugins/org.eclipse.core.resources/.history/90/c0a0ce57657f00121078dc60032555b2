@@ -1,0 +1,10 @@
+CC=/usr/bin/gcc
+all: calloc gol
+calloc:
+	$(CC) calloc_demo.c
+
+gol:
+	$(CC) main.c optparse.c
+	
+clean:
+	rm -f main calloc_demo optparse
